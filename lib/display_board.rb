@@ -2,7 +2,6 @@
 # out the current state.
 
 board = ['x','x','x','x','x','x','x','x','x','x']
-
 display_board(board)
 
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
